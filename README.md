@@ -1,6 +1,6 @@
 [English](README.md) | [日本語](README.ja.md)
 
-# VRCFriendCheck
+# makimaru-converter
 
 This is a browser extension that allows you to check your friend's online status on VRChat, and notify you when a friend is online.
 
@@ -24,11 +24,11 @@ This is a browser extension that allows you to check your friend's online status
 
 ### When using Chrome browser
 
-Add this extension to Chrome from  [Chrome Web Store](https://chrome.google.com/webstore/detail/vrcfriendcheck/fkhfmlkfiaafmoaobaofhldnlgapekhl).
+Add this extension to Chrome from  [Chrome Web Store](https://chrome.google.com/webstore/detail/makimaru-converter/fkhfmlkfiaafmoaobaofhldnlgapekhl).
 
 ### When using Firefox browser
 
-Add this extension to Firefox from [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/vrcfriendcheck/).
+Add this extension to Firefox from [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/makimaru-converter/).
 
 ### If you build by yourself
 
@@ -75,7 +75,7 @@ I use Google Translate for translation.
 
 ## About questions, requests, bug reports, etc
 
-Please feel free to report any issues, requests, or questions from [Issues](https://github.com/mnao305/VRCFriendCheck/issues).
+Please feel free to report any issues, requests, or questions from [Issues](https://github.com/mnao305/makimaru-converter/issues).
 
 ## Author
 
