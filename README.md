@@ -1,6 +1,6 @@
 [English](README.md) | [日本語](README.ja.md)
 
-# VVecMath
+# ByKeyboardHook
 
 This is a browser extension that allows you to check your friend's online status on VRChat, and notify you when a friend is online.
 
